@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculate Age</string>
+    <string name="bt_birthday">Enter your birthday</string>
+    <string name="birthDay">your birthday</string>
+    <string name="age">Age</string>
+    <string name="remain">Remaining for your birthday</string>
+    <string name="birth">Your birthday</string>
+    <string name="year">Years</string>
+    <string name="month">months</string>
+    <string name="day">days</string>
+    <string name="calc">calculate again</string>
+    <string name="complete">to complete</string>
+    <string name="and">and</string>
+    <string name="error">Enter real date</string>
+
+
+</resources>
