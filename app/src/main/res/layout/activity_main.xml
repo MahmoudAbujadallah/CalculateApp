@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="45dp"
-        android:background="@drawable/bt_birthday"
+        android:background="@drawable/ic_launcher_background"
         android:onClick="showCalender"
         android:text="@string/bt_birthday"
         android:textAllCaps="false"
